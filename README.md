@@ -68,3 +68,8 @@ git push -u origin main
 - API integration
 - AI recommendation system
 
+#Folders to put in
+cars.js-data
+CarCard.js-component
+both in src with app.js index.js and styles.css
+reactbuil.yml in workflows in .github
